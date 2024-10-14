@@ -1,5 +1,7 @@
+import UserProfile from "@/app/ui/dashboard/user";
+
 export default function CustomersPage() {
   return (
-    <p>Customers Page</p>
+    <UserProfile />
   )
 }
